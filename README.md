@@ -19,7 +19,7 @@ This repository contains the full collection in both Italian and English, organi
 │   ├── 02-test-flights.md  
 │   └── 03-paratexts.md  
 
-├── Libellule_Draongflies_Poetry_Collection_Adriano_Fontanari.pdf  
+├── Libellule_Dragonflies_Poetry_Collection_Adriano_Fontanari.pdf  
 ├── artwork.png  
 └── README.md
 
